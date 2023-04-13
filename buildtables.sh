@@ -1,0 +1,1 @@
+sqlplus -S jgalassi/jgalassi @CREATE
